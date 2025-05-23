@@ -1,5 +1,6 @@
 # Base de Datos
 ![Base de Datos](BaseDeDatos.jpeg)
+![Mapa](imagenMapa.jpg)
 
 en esta materia se muestra el diseño, implementacion
 de base de datos en los sistemas gestores en base de datos, microsoft SQL server y MYSQL.
